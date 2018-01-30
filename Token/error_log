@@ -1,0 +1,699 @@
+[10-Jun-2017 22:54:07 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[11-Jun-2017 00:07:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 30
+[11-Jun-2017 00:08:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 30
+[11-Jun-2017 00:08:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 30
+[11-Jun-2017 00:08:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 30
+[11-Jun-2017 11:17:44 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[11-Jun-2017 11:18:57 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:18:59 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:19:04 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:19:29 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:19:32 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:19:40 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 12
+[11-Jun-2017 11:24:59 UTC] PHP Notice:  Undefined variable: conexao1 in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 11
+[11-Jun-2017 11:24:59 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 11
+[11-Jun-2017 11:25:02 UTC] PHP Notice:  Undefined variable: conexao1 in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 11
+[11-Jun-2017 11:25:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 11
+[20-Jun-2017 02:24:07 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[20-Jun-2017 02:24:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[20-Jun-2017 02:24:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[20-Jun-2017 02:24:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[14-Jul-2017 00:36:16 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 7
+[14-Jul-2017 00:37:31 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 7
+[14-Jul-2017 01:39:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[14-Jul-2017 01:52:08 UTC] PHP Notice:  Undefined index: idnotificacao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 7
+[14-Jul-2017 01:52:08 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 8
+[14-Jul-2017 01:52:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[14-Jul-2017 01:52:30 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 7
+[14-Jul-2017 01:52:34 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[14-Jul-2017 01:52:38 UTC] PHP Notice:  Undefined index: login in /home/profes11/public_html/mobile/Token/login.php on line 7
+[14-Jul-2017 01:52:38 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/login.php on line 8
+[14-Jul-2017 01:53:00 UTC] PHP Notice:  Undefined index: idnotificacao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 7
+[14-Jul-2017 01:53:00 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 8
+[14-Jul-2017 01:53:04 UTC] PHP Notice:  Undefined index: matricula in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 7
+[14-Jul-2017 01:53:04 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 8
+[14-Jul-2017 01:53:04 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 9
+[14-Jul-2017 01:53:04 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 27
+[14-Jul-2017 02:10:27 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 7
+[14-Jul-2017 02:10:27 UTC] PHP Notice:  Undefined index: retorno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 8
+[14-Jul-2017 02:10:30 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[14-Jul-2017 02:10:30 UTC] PHP Notice:  Undefined index: retorno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 8
+[14-Jul-2017 02:29:20 UTC] PHP Notice:  Undefined index: idnotificacao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 7
+[14-Jul-2017 02:29:20 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 8
+[18-Jul-2017 12:51:41 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[18-Jul-2017 13:25:16 UTC] PHP Notice:  Undefined index: idnotificacao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 7
+[26-Jul-2017 02:35:35 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[26-Jul-2017 02:35:39 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 7
+[26-Jul-2017 02:35:48 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[26-Jul-2017 02:35:48 UTC] PHP Notice:  Undefined index: retorno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 8
+[26-Jul-2017 13:08:33 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[26-Jul-2017 13:31:14 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:31:20 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:02 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:19 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:21 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:32 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:33 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:33:34 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 13:34:09 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[26-Jul-2017 15:19:07 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:09 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:13 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:14 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:15 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:15 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:15 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[26-Jul-2017 15:19:15 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[27-Jul-2017 18:52:56 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[27-Jul-2017 19:25:03 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[27-Jul-2017 19:25:05 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[27-Jul-2017 19:25:19 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[27-Jul-2017 19:25:22 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[29-Jul-2017 12:57:04 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 12:57:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 12:57:05 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 12:57:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 12:57:07 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 12:57:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 12:57:08 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 12:57:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 12:57:09 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 12:57:09 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:04:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:04:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:04:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:04:39 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:41 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:45 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:04:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:13 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:15 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 12
+[29-Jul-2017 13:05:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 12
+[29-Jul-2017 13:05:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:19 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 13
+[29-Jul-2017 13:05:27 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:27 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 14
+[29-Jul-2017 13:05:32 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:32 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:35 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[29-Jul-2017 13:05:35 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 13
+[01-Aug-2017 19:15:16 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[01-Aug-2017 19:15:36 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[01-Aug-2017 19:15:44 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[01-Aug-2017 20:17:13 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[01-Aug-2017 20:17:15 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[01-Aug-2017 20:17:17 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[10-Aug-2017 18:34:50 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[10-Aug-2017 18:34:51 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[10-Aug-2017 18:34:51 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[10-Aug-2017 18:34:51 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[10-Aug-2017 23:14:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[10-Aug-2017 23:18:27 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[10-Aug-2017 23:18:29 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[10-Aug-2017 23:18:31 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[10-Aug-2017 23:18:33 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[18-Aug-2017 14:18:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[18-Aug-2017 14:18:00 UTC] PHP Notice:  Undefined index: retorno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 8
+[18-Aug-2017 14:18:00 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 9
+[18-Aug-2017 14:18:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 7
+[18-Aug-2017 14:18:06 UTC] PHP Notice:  Undefined index: retorno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 8
+[18-Aug-2017 14:18:06 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/avaliarFeedback.php on line 9
+[18-Aug-2017 14:18:10 UTC] PHP Notice:  Undefined index: matricula in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 7
+[18-Aug-2017 14:18:10 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 8
+[18-Aug-2017 14:18:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 9
+[18-Aug-2017 14:18:10 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/cadastrarToken.php on line 27
+[18-Aug-2017 14:18:13 UTC] PHP Notice:  Undefined index: idnotificacao in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 7
+[18-Aug-2017 14:18:13 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/cadastrarnotificacaolida.php on line 8
+[18-Aug-2017 14:18:27 UTC] PHP Notice:  Undefined index: login in /home/profes11/public_html/mobile/Token/login.php on line 7
+[18-Aug-2017 14:18:27 UTC] PHP Notice:  Undefined index: senha in /home/profes11/public_html/mobile/Token/login.php on line 8
+[18-Aug-2017 14:18:40 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 7
+[18-Aug-2017 14:18:43 UTC] PHP Notice:  Undefined index: idaluno in /home/profes11/public_html/mobile/Token/retornaqtdnotificacaonaolida.php on line 7
+[18-Aug-2017 14:18:46 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[18-Aug-2017 14:18:49 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdprata.php on line 7
+[18-Aug-2017 14:18:52 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/somatoriopontos.php on line 7
+[20-Aug-2017 02:24:35 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdbronze.php on line 7
+[25-Aug-2017 12:29:49 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[31-Aug-2017 11:59:53 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[31-Aug-2017 12:00:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdouro.php on line 7
+[11-Nov-2017 14:11:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[11-Nov-2017 20:04:33 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:04:57 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:07:47 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:07:53 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:08:41 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:11:20 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 12
+[11-Nov-2017 20:13:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 51
+[12-Nov-2017 00:46:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 7
+[12-Nov-2017 00:46:53 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 7
+[12-Nov-2017 00:46:57 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 7
+[12-Nov-2017 00:47:24 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 7
+[12-Nov-2017 11:17:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:07 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:07 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:07 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:17 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:17 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:17 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:20 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:20 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:22 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:22 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:22 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:23 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:23 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:23 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:24 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:24 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:24 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:24 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:25 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:25 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:25 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:25 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 11:17:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 8
+[12-Nov-2017 22:08:24 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:08:24 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:08:25 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:08:26 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:08:46 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:08:46 UTC] PHP Notice:  Array to string conversion in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 58
+[12-Nov-2017 22:14:14 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:15 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:15 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:15 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:15 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:16 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:16 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:16 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:17 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:17 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:17 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:18 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:18 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:18 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:19 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:19 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:20 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:20 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:20 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:21 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:21 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:21 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:22 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:22 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:22 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:23 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:23 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:23 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:24 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:24 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:25 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:25 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:25 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:25 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:26 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:26 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:27 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:27 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:27 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:27 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:27 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:28 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:28 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:28 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:28 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:29 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:29 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:29 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:29 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:29 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:30 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:30 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:30 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:30 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:31 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:31 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:31 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:31 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:31 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:32 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:32 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:32 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:32 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:32 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:35 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:36 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:36 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:36 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:36 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:36 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:37 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:37 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:37 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:37 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:38 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:38 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:38 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:38 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:39 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[12-Nov-2017 22:14:40 UTC] PHP Parse error:  syntax error, unexpected '$retorno' (T_VARIABLE) in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 41
+[19-Nov-2017 04:35:25 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[19-Nov-2017 04:35:28 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[19-Nov-2017 04:35:31 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[22-Nov-2017 18:49:59 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:23:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[25-Nov-2017 01:24:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/avaliarConteudo.php on line 7
+[09-Dec-2017 16:20:04 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[09-Dec-2017 16:20:29 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[09-Dec-2017 16:25:32 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[09-Dec-2017 17:00:33 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[13-Dec-2017 01:49:39 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[14-Dec-2017 19:13:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[14-Dec-2017 20:24:28 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[14-Dec-2017 20:24:35 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[17-Dec-2017 00:49:50 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[17-Dec-2017 00:53:44 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:36 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:36 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:36 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:37 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:38 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:38 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:38 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:38 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:39 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:39 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:39 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:39 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:40 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:40 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:40 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:40 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:40 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:41 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:41 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:41 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:41 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:41 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:42 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:42 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:42 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:43 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:43 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:43 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:43 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:43 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:44 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:44 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:44 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:44 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:44 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:44 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:45 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:45 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:45 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:45 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:45 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:46 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:46 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:46 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:46 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:46 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:46 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:47 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:47 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:47 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:47 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:47 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:47 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:48 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:48 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:48 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:49 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:49 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:49 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:49 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:49 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:50 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:50 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:50 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:50 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:51 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:51 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:51 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:51 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:51 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:52 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:52 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:52 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:52 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:53 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:53 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:53 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:53 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:53 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:54 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:54 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:54 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:55 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:55 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:55 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:55 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:55 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:56 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:56 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:56 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:56 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:56 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:57 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:57 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:57 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:57 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:57 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:58 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:58 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:58 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:58 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:58 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:59 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:36:59 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:36:59 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:00 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:00 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:01 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:01 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:01 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:01 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:02 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:02 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:02 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:02 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:03 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:03 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:03 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:03 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:03 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:03 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:04 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:04 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:04 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:04 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:05 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:05 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:06 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:06 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:06 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:07 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:07 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:07 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:07 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:07 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:08 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:08 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:08 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:09 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:09 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:09 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:09 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:09 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:10 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:10 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:10 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:11 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:11 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:11 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:11 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:11 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:12 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:12 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:13 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:13 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:13 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:14 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:14 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:14 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:14 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:14 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:15 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:15 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:15 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:15 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:16 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:16 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:16 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:16 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:17 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:17 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:17 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:18 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:18 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:19 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:19 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:19 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:19 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:20 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:20 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:20 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:20 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:20 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:20 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:21 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:21 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:21 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:37:21 UTC] PHP Notice:  Undefined variable: conexao in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:21 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 16
+[24-Dec-2017 02:37:22 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:38:52 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:41:28 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:41:43 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:41:58 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:41:59 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:42:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:42:01 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Dec-2017 02:42:47 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[05-Jan-2018 20:22:54 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[16-Jan-2018 13:57:48 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[16-Jan-2018 13:58:03 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[21-Jan-2018 14:30:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[21-Jan-2018 14:30:45 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:26:50 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:32:31 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:32:40 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:32:46 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:46:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:46:12 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:46:36 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:46:49 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:52:40 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[24-Jan-2018 01:52:46 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[27-Jan-2018 18:39:05 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:36:28 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:37:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:40:44 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:40:53 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:40:54 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[28-Jan-2018 22:40:55 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[29-Jan-2018 17:59:00 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[29-Jan-2018 18:11:02 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
+[30-Jan-2018 01:41:26 UTC] PHP Notice:  Undefined index: id in /home/profes11/public_html/mobile/Token/retornaqtdpontosatividade.php on line 10
