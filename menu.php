@@ -48,6 +48,15 @@
                     </a>
                 </li>
 
+                <li>
+                    <a href="consultarRanking.php">
+                        <i class="pe-7s-note2"></i>
+                        <p>Ranking de Pontuação</p>
+                    </a>
+                </li>
+
+                
+
   
 				
                 <li>
