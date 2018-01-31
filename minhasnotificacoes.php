@@ -280,10 +280,10 @@ foreach($resultado as $linha){?>
 		   <h3><?echo $linha['titulonotificacao'];?></h3>
 
                 </div>
-                <div class="panel-body" style="
-    padding-left: 30px;
-">
+                <div class="panel-body" style="padding-left: 30px;">
                     <p><?echo $linha['descricao'];?></p>
+         
+                    <a href="<?echo $linha['linknotificacao'];?>" class="btn btn-primary" role="button">URL</a>
 <a href="minhasnotificacoesdetalhadas.php?id=<?echo $linha['idnotificacao']?>" class="btn btn-primary" role="button">Verificar Notificações Enviadas</a>
             </div>
                 </div>
