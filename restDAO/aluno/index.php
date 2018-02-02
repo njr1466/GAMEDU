@@ -12,6 +12,7 @@ $app->response()->header('Access-Control-Allow-Headers: X-Requested-With, conten
 
 
 $app->get('/load/:id','load');
+$app->get('/loadAlunoDisciplina/:id','loadAlunoDisciplina');
 $app->get('/queryAll/','queryAll');
 $app->get('/queryAllOrderBy/:orderColumn','queryAllOrderBy');
 $app->post('/insert/','insert');
@@ -29,6 +30,20 @@ $app->run();
                 echo json_encode("error");
            }else{
                 $aluno = DAOFactory::getAlunoDAO()->load($id);
+                echo json_encode($aluno);
+       
+           }
+	}
+
+	/**
+	 * LISTA OS ALUNOS DA DISCIPLINA REQUERIDA
+	 */
+        function loadAlunoDisciplina($id){
+		    
+           if(!autenticacao::autenticar()){
+                echo json_encode("error");
+           }else{
+                $aluno = DAOFactory::getAlunoDAO()->loadAlunoDisciplina($id);
                 echo json_encode($aluno);
        
            }

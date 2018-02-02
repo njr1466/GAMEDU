@@ -13,6 +13,7 @@
 		var $nomealuno;
 		var $senha;
 		var $alunoativo;
+		VAR $email;
 		
 	}
 ?>

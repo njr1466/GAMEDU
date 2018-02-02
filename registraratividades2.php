@@ -161,7 +161,8 @@ include 'php/Conexao.php';
               
         <?php                      
         include 'php/Conexao.php';
-$stmt = $conexao->prepare("SELECT * FROM `aluno` INNER JOIN aluno_disciplina on aluno.idaluno = aluno_disciplina.aluno_idaluno where aluno_disciplina.disciplina_iddisciplina = ? order by nomealuno ");
+$stmt = $conexao->prepare("SELECT * FROM `aluno` INNER JOIN aluno_disciplina on aluno.idaluno = aluno_disciplina.aluno_idaluno 
+where aluno_disciplina.disciplina_iddisciplina = ? and alunoativo=1 order by nomealuno ");
 
  $DisciplinaList = $_GET['disciplinaList'];
 $stmt -> bindParam(1,$DisciplinaList);
@@ -206,7 +207,7 @@ if($stmt->rowCount() >0){
                 <td><?php echo ($linha["nomealuno"]); ?></td>
                   <td>
                  <input id="disciplina" name="disciplina" type="hidden" value="<?php echo $DisciplinaList;?>" >
-                  <input id="nota" name="nota[]" type="text" placeholder="" class="form-control input-md"  maxlength="13" ></td>
+                 <input id="nota" name="nota[]" type="text" placeholder="" class="form-control input-md"  maxlength="13" ></td>
               
                           </tr>
                         </tbody>

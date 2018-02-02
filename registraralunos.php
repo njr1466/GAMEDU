@@ -25,9 +25,11 @@
     <!--  Light Bootstrap Table core CSS    -->
     <link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
 
-
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
     <!--  CSS for Demo Purpose, don't include it in your project     -->
     <link href="assets/css/demo.css" rel="stylesheet" />
+
+    
 	
 	
 
@@ -37,10 +39,63 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
 	  <!--    Formatar Dados de Inputs  -->
+<script>
+        var app = angular.module('myApp', []);
+        app.controller('alunos', function($scope, $http) {
+
+
+
+       // * FUNÇÃO PARA EFETUAR LOGIN * //
+        $scope.listarAlunos = function(){
+      
+    var cod = $('#disciplinaList').val();
+         $http.get('http://professornilson.com/mobile/restDAO/aluno/loadAlunoDisciplina/'+cod).success(function (dados) {
+                   $scope.myData = dados;
+              
+            }).error(function (dados) {
+                console.log(dados);
+            });
+
+       
+       }
+
+
+          // * FUNÇÃO PARA EFETUAR LOGIN * //
+        var listarTodosAlunos = function(){
+      
+         var cod = $('#disciplinaList').val();
+         $http.get('http://professornilson.com/mobile/restDAO/aluno/queryAll').success(function (dados) {
+                   $scope.myData = dados;
+              
+            }).error(function (dados) {
+                console.log(dados);
+            });
+
+       
+       }
+
+$scope.excluiraluno = function(idaluno){
+      
+   $("#escondido"+idaluno).css("display","block");
+
+       
+       }
+
+       
+listarTodosAlunos();
+
+        });
+
+
+</script>
+
+
 <script language="JavaScript" src="js/FormatarDados.js"></script>
 </head>
-<body>
-
+<body ng-app="myApp" ng-controller="alunos">
+<div ng-repeat="x in myData ">
+    
+</div>
 <div class="wrapper">
     <div class="sidebar" data-color="green" >
 
@@ -88,7 +143,7 @@
 <!--CONTEUDO AQUI -->
 <form class="form-horizontal" method="GET" action="SelecionarDisciplinas.php" >
 <fieldset>
-
+<input type="hidden" name="idDisciplina" id="idDisciplina" value="<?php echo $_GET['disciplinaList'];?>">
 <!-- Form Name -->
 <legend> </legend>
 <!-- Erros gerados no cadastro/alteração-->
@@ -205,7 +260,8 @@ if(isset($_SESSION['erromatricula'])){
 		$resultado = $stmt->fetchAll();
 		foreach($resultado as $linha){ 
 		?>
-	   <option value="<?php echo $linha['iddisciplina']; ?>"  <?php if($_GET['disciplinaList']==$linha['iddisciplina']){echo "selected";}?>><?php echo ($linha['descricaodisciplina']); ?></option>
+	   <option value="<?php echo $linha['iddisciplina']; ?>"  <?php if($_GET['disciplinaList']==$linha['iddisciplina']){echo "selected";}?>><?php echo ($linha['descricaodisciplina']); ?>
+     </option>
    
    <?php
 		}
@@ -216,8 +272,11 @@ if(isset($_SESSION['erromatricula'])){
 
   
 ?> 
-      <input type="submit" style="margin-left:15%;margin-top:5%;" class="btn btn-primary btn-info" value="Listar">  
+      
+      
     </select>
+
+    <input  type="" ng-click="listarAlunos();" style="margin-left: 0px;margin-top:5%;" class="btn btn-primary btn-info" value="Listar">  
   </div>
 </div>
 
@@ -276,8 +335,8 @@ if($stmt->rowCount() >0){
 	foreach($resultado as $linha){
 				  ?>
                   <tbody>
-                          <tr>
-                            <td align="center">
+                          <tr >
+                            <td align="center" class="col col-xs-4">
                               <a class="btn btn-success"  href="php/alterarAluno.php?idaluno=<?php echo $linha['idaluno']; ?>"><em class="fa fa-pencil"></em></a>
                               <a target="_blank" id="Clique<?php echo $linha["idaluno"]; ?>" class="btn btn-danger" ><em class="fa fa-trash"></em></a>
                            <div id="escondido<?php echo $linha["idaluno"]; ?>" style="display:none;">
@@ -326,23 +385,19 @@ $( "#Clique<?php echo $linha["idaluno"]; ?>" ).click(function() {
             <div class="panel panel-default panel-table">
               <div class="panel-heading">
                 <div class="row">
-                  <div class="col col-xs-6">
-                    <h3 class="panel-title">Lista de Alunos</h3>
+                  <div class="col col-xs-12">
+                    <h3 class="panel-title">Pesquisa de Aluno</h3>
+                     <input  ng-model="pesquisar" type="text" placeholder="" class="form-control input-md"   >
+                     <br><br>
+                       <h3 class="panel-title">Lista de Alunos</h3>
                   </div>
                   <div class="col col-xs-6 text-right">
                     
                   </div>
                 </div>
               </div>
-			  <?php                      
-			  include 'php/Conexao.php';
-$stmt = $conexao->prepare("SELECT * FROM aluno");
 
-$stmt->execute();
 
-if($stmt->rowCount() >0){
-			  
-			  ?>
               <div class="panel-body">
                 <table class="table table-striped table-bordered table-list" id="conteudo">
                   <thead>
@@ -357,40 +412,30 @@ if($stmt->rowCount() >0){
 						
                     </tr> 
                   </thead>
-				  <?php 
-				  	}	
-
-	$resultado = $stmt->fetchAll();
-
-	foreach($resultado as $linha){
-				  ?>
-                  <tbody>
-                          <tr>
+				  
+                  <tbody ng-repeat="x in myData | filter:{nomealuno:pesquisar}">
+                    
+                          <tr >
                             <td align="center">
-                              <a class="btn btn-success"  href="php/alterarAluno.php?idaluno=<?php echo $linha['idaluno']; ?>"><em class="fa fa-pencil"></em></a>
-                              <a target="_blank" id="Clique<?php echo $linha["idaluno"]; ?>" class="btn btn-danger" ><em class="fa fa-trash"></em></a>
-                           <div id="escondido<?php echo $linha["idaluno"]; ?>" style="display:none;">
-						   Tem certeza que dejesa deletar o Aluno <?php echo ($linha["nomealuno"]); ?> ? <br>
-    <a  id="Clique" class="btn btn-success" href="php/deletarAluno.php?idaluno=<?php echo $linha['idaluno']; ?>&nomealuno=<?php echo $linha['nomealuno']; ?>"><em class="fa fa-check"></em></a>
+                              <a class="btn btn-success"  href="php/alterarAluno.php?idaluno={{x.idaluno}}"><em class="fa fa-pencil"></em></a>
+                              <a target="_blank" ng-click="excluiraluno(x.idaluno);" id="Clique{{x.idaluno}}" class="btn btn-danger" ><em class="fa fa-trash"></em></a>
+                           <div id="escondido{{x.idaluno}}" style="display:none;">
+						   Tem certeza que dejesa deletar o Aluno {{x.nomealuno}}? <br>
+    <a  id="Clique" class="btn btn-success" href="php/deletarAluno.php?idaluno={{x.idaluno}}&nomealuno={{x.nomealuno}}"><em class="fa fa-check"></em></a>
 </div>
-<script>
-$( "#Clique<?php echo $linha["idaluno"]; ?>" ).click(function() {
-  $("#escondido<?php echo $linha["idaluno"]; ?>").css("display","block");
-});
- </script>
+
 						   
 						   </td>
-                            <td class="hidden-xs"><?php echo $linha["idaluno"]; ?></td>
-                            <td><?php echo ($linha["matricula"]); ?></td>
+                            <td class="hidden-xs">{{x.idaluno}}</td>
+                            <td>{{x.matricula}}</td>
                            
-							  <td><?php echo ($linha["nomealuno"]); ?></td>
-							    <td><?php echo ($linha["email"]); ?></td>
-							<td><?php if(($linha["alunoativo"]) == 1){
-					echo "Sim";		}else{ echo "Não";}								?></td>
+							  <td>{{x.nomealuno}}</td>
+							    <td>{{x.email}}</td>
+							<td><span ng-show="{{x.alunoativo == 1}}">Ativo</span></td>
                           </tr>
                         </tbody>
 						<?php 
-						} 
+						//} 
 						?>
                 </table>
 				<table id="paginador" border="1">
@@ -410,9 +455,7 @@ $( "#Clique<?php echo $linha["idaluno"]; ?>" ).click(function() {
         
 ?>
 
-        
-
-    </div>
+   
 </div>
 
 

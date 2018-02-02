@@ -21,7 +21,8 @@ fclose($fp);
 
 
 
-$sql = "select concat(a.nomealuno, ' - ', t.turnoturma) nomealuno,a.idaluno,t.turnoturma from aluno_disciplina ad, aluno a,aluno_turma at, turma t where a.idaluno= ad.aluno_idaluno and disciplina_iddisciplina = $id and at.aluno_idaluno = a.idaluno and at.turma_idturma = t.idturma and ad.disciplinaativo =1 and a.token is not null order by t.turnoturma desc";
+$sql = "select concat(a.nomealuno, ' - ', t.turnoturma) nomealuno,a.idaluno,t.turnoturma from aluno_disciplina ad, aluno a,aluno_turma at, turma t where a.idaluno= ad.aluno_idaluno and disciplina_iddisciplina = $id 
+and at.aluno_idaluno = a.idaluno and at.turma_idturma = t.idturma and ad.disciplinaativo =1 and a.token is not null order by t.turnoturma desc,a.nomealuno asc";
 $stmt = $conexao->prepare($sql);
 $stmt->execute(); 
 

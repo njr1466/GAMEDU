@@ -5,7 +5,7 @@
 <?php  
    
 include 'php/Conexao.php'; 
-	$stmt = $conexao->prepare("SELECT n.*,u.urlimage,u.nomereduzido,DATE_FORMAT(n.data,'%m/%d/%Y %h:%i') datan from notificacao n,usuario u WHERE u.idusuario = n.usuario_idusuario and n.usuario_idusuario=? order by data desc");
+	$stmt = $conexao->prepare("SELECT n.*,u.urlimage,n.urlimagem imagem,u.nomereduzido,DATE_FORMAT(n.data,'%m/%d/%Y %h:%i') datan from notificacao n,usuario u WHERE u.idusuario = n.usuario_idusuario and n.usuario_idusuario=? order by data desc");
 	$stmt->bindValue(1, $_SESSION['idusuario']);
 	$stmt->execute();
 
@@ -283,8 +283,9 @@ foreach($resultado as $linha){?>
                 <div class="panel-body" style="padding-left: 30px;">
                     <p><?echo $linha['descricao'];?></p>
          
-                    <a href="<?echo $linha['linknotificacao'];?>" class="btn btn-primary" role="button">URL</a>
+                    <a href="<?echo $linha['linknotificacao'];?>" class="btn btn-primary" role="button" target="blank">URL</a>
 <a href="minhasnotificacoesdetalhadas.php?id=<?echo $linha['idnotificacao']?>" class="btn btn-primary" role="button">Verificar Notificações Enviadas</a>
+            <img  src="<?echo $linha['imagem'];?>"  width="80" height="80" />
             </div>
                 </div>
                

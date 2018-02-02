@@ -20,6 +20,16 @@ class AlunoMySqlDAO implements AlunoDAO{
 		return $this->getRow($sqlQuery);
 	}
 
+
+	public function loadAlunoDisciplina($id){
+		
+
+		$sql = 'SELECT aluno.* FROM aluno,aluno_disciplina WHERE aluno.idaluno = aluno_disciplina.aluno_idaluno 
+		and aluno_disciplina.disciplina_iddisciplina ='.$id.' order by aluno.nomealuno';
+		$sqlQuery = new SqlQuery($sql);
+		return $this->getList($sqlQuery);
+	}
+
 	/**
 	 * Get all records from table
 	 */
@@ -186,6 +196,7 @@ class AlunoMySqlDAO implements AlunoDAO{
 		$aluno->nomealuno = ((trim($row['nomealuno'])));
 		$aluno->senha = trim($row['senha']);
 		$aluno->alunoativo = trim($row['alunoativo']);
+		$aluno->email = trim($row['email']);
 
 		return $aluno;
 	}
