@@ -12,17 +12,12 @@ $stmt = $conexao->prepare("select * from usuario where idusuario = ?");
 
 
 $idusuario= $_POST["idusuario"]; 
-
 $stmt->bindValue(1,$idusuario);
 
 $stmt->execute();
+
 $resultado = $stmt->fetchAll();
 
-
-
-
-
-	
 
 foreach($resultado as $linha){
 
@@ -88,10 +83,10 @@ foreach($resultado as $linha){
                 </div>
             </div>
         </nav>
-<form class="form-horizontal" method="POST" action="updateDisciplina.php?idusuario=<?php echo $idusuario; ?>" style="margin-left:-10%;">
+<form class="form-horizontal" method="POST" action="updateDisciplinaProfessor.php?idusuario=<?php echo $idusuario; ?>" style="margin-left:-10%;">
 <fieldset>
 
-<!-- Text input-->  
+<!-- Text input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="nomereduzido">Nome reduzido</label>  
   <div class="col-md-4">
@@ -143,6 +138,7 @@ $i=0;
 
   
 ?> 
+
   </div>
 </div>
 
