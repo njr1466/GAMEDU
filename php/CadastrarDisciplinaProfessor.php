@@ -88,7 +88,7 @@ foreach($resultado as $linha){
                 </div>
             </div>
         </nav>
-<form class="form-horizontal" method="POST" action="updateDisciplinaProfessor.php?idusuario=<?php echo $idusuario; ?>" style="margin-left:-10%;">
+<form class="form-horizontal" method="POST" action="updateDisciplina.php?idusuario=<?php echo $idusuario; ?>" style="margin-left:-10%;">
 <fieldset>
 
 <!-- Text input-->  
