@@ -36,13 +36,13 @@ $stmt2->execute();
 
 if($stmt->rowCount() >0){
 	echo "<script language= 'JavaScript'>
-location.href='../mensagem.php?msg=Alterado&url=registrardisciplinas.php'
+location.href='../mensagem.php?msg=Alterado&url=registrardisciplina_professor.php'
 </script>";
 		
 	}else{
 	 echo '<script>
 			alert("Não foi possivel alterar usuario.");
-			location.href="../registrardisciplinas.php"
+			location.href="../registrardisciplina_professor.php"
 		</script>';
 	}
 	

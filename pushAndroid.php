@@ -266,7 +266,7 @@ if(isset($_POST) && !empty($_POST)){
 $msg = "";
 
 	
-	$response = $gcpm->send($message, array('title' => $title,'BigTextStyle' => 'true','bigText' => $message ,
+	$response = $gcpm->send($message, array('title' => $title,'BigTextStyle' => 'true','bigText' => $message ,'bigPicture'=>'http://vignette3.wikia.nocookie.net/masseffectitalia/images/e/e8/Cdx_palaven_512x256.jpg/revision/latest?cb=20121203161621',
         'BigPictureStyle'=>'true',imgUrl=>'http://vignette3.wikia.nocookie.net/masseffectitalia/images/e/e8/Cdx_palaven_512x256.jpg/revision/latest?cb=20121203161621','url'=>$urlPush,'customNotificationTitle'=>$title,'idnotificacao'=>$id_res
                                                )); // Título do Push...
 
